@@ -1,0 +1,11 @@
+{
+  "model": "mazda",
+  "price": 321000,
+  "color": "BLUE",
+  "mileage": 32.0,
+  "BRAND": "Mercedes",
+  "components": [
+    "sprzeglo",
+    "maska"
+  ]
+}

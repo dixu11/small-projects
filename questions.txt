@@ -1,0 +1,84 @@
+1#MUSIC#f#Who was the youngest of The Beatles?
+2#MUSIC#f#Which instrument did Jimi Hendrix play?
+3#MUSIC#f#British rock bands the Rolling Stones and the Beatles first formed in:
+4#MUSIC#f#Many rock guitarists press a wah-wah _______ to change the guitar's sound while playing.
+5#MUSIC#t#Frédéric _______ was the name of a famous pianist with a polish origin.
+6#ECONOMY#f#A person who starts a business to produce a new product in the marketplace is known as:
+7#ECONOMY#f#An increase from 5% to 8% in the interest rates charged by banks would most likely encourage:
+9#ECONOMY#f#Which of the following are most likely to be helped by inflation?
+10#ECONOMY#f#GDP is market value of all the final goods
+11#GENERAL_KNOWLEDGE#f#The cleric Einhard (c.770 - 840) wrote a ground-breaking and much copied biography of which figure?
+12#GENERAL_KNOWLEDGE#f#What Court was established in 1959 by the election of its members by the European Council?
+13#GENERAL_KNOWLEDGE#f#What does julep always contain as a base?
+16#COUNTRIES_CAPITALS#t#_______ is the capital of Indonesia.
+17#COUNTRIES_CAPITALS#t#_______ is the capital of United Kingdom.
+18#COUNTRIES_CAPITALS#f#Manila is the capital of
+19#COUNTRIES_CAPITALS#t#_______ is the capital of France.
+20#COUNTRIES_CAPITALS#t#_______ is the capital of Thailand.
+-----
+1#f#John Lennon.
+1#f#Paul McCartney.
+1#t#George Harrison.
+1#f#Ringo Star.
+2#f#Drums.
+2#f#Bass guitar.
+2#t#Lead Guitar.
+2#f#Keyboard.
+3#f#the 1950s.
+3#t#the 1960s.
+3#f#the 1970s.
+3#f#the 1980s.
+4#f#box
+4#t#pedal
+4#f#button
+4#f#knob
+5#t#Chopin
+6#f#A manager.
+6#f#A bureaucrat.
+6#t#An entrepreneur.
+6#f#A politician.
+7#f#Businesses to invest.
+7#f#People to purchase housing.
+7#t#People to save money.
+7#f#Businesses to close.
+8#t#Increased.
+8#f#Decreased.
+8#f#Remained the same.
+8#f#Increased, then decreased.
+9#f#People living on a fixed income.
+9#f#Banks that loaned money at a fixed rate of interest.
+9#t#People who borrowed money at a fixed rate of interest.
+9#f#People who keep their money as cash and don’t invest.
+10#t#Produced domestically.
+10#f#Produced by domestic factors of production.
+10#f#Produced by all factors of production.
+10#f#All of the above.
+11#f#Harald "Bluetooth" Gormsson.
+11#t#Charlemagne.
+11#f#Harun al-Rashid.
+11#f#Irene of Athens.
+12#f#European Court of Justice.
+12#t#European Court of Human Rights.
+12#f#Administrative Tribunal of the International Labour Organisation.
+12#f#e-Curia.
+13#t#Sugar or syrup.
+13#f#Bourbon.
+13#f#Chicken stock.
+13#f#Tomato juice.
+14#f#Sigmund Freud.
+14#f#Stanford Binet.
+14#f#Erik Erikson.
+14#t#Carl Jung.
+15#f#Speed skating.
+15#f#Golf.
+15#t#Football (soccer).
+15#f#Ballroom dancing.
+16#t#Jakarta
+17#t#London
+18#f#France.
+18#f#Belgium.
+18#t#Philippines.
+18#f#Egypt.
+19#t#Paris
+20#t#Bangkok
+
